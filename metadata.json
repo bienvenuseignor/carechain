@@ -1,0 +1,6 @@
+{
+  "name": "CareChain AI",
+  "description": "Plateforme intelligente d'épargne santé, de financement d'urgence et de paiement en Bitcoin pour les communautés africaines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
